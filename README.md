@@ -28,7 +28,7 @@ You can play with other parameters such as:
 
 # Laser cutting patterns
 
-We include ready made SW and SFWB patterns for laser cutting. We use Takeo Tant paper as the material of origami structure (see paper for more detail on the material)
+File `LaserCut_ICRA2022.dxf` includes ready made SW and SFWB patterns for laser cutting. We use Takeo Tant paper as the material of origami structure (see paper for more detail on the material)
 
 # Citation
 
