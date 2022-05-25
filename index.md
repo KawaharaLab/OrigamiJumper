@@ -34,4 +34,4 @@ We include ready made SW and SFWB patterns for laser cutting. We use Takeo Tant 
 
 # Citation
 
-**T. D. Ta***, Z. Chang*, K. Narumi, T. Umedachi, and Y. Kawahara, “**Printable Kirigami Bistable Structures for Foldable Jumping Robots,**” 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, To Appear. (* Co-first authors)
+T. D. Ta*, Z. Chang*, K. Narumi, T. Umedachi, and Y. Kawahara, “**Printable Kirigami Bistable Structures for Foldable Jumping Robots,**” 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, To Appear. (* Co-first authors)
