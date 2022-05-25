@@ -8,6 +8,8 @@ The repository includes:
 - Pattern to be used with laser cutter to make the origami SW/SFWB structures
 - Some animation on the transition of the SW and SFWB structure between bi-stable states
 
+[https://youtu.be/15y4ZFg5i5Y](https://youtu.be/15y4ZFg5i5Y)
+
 # How to use Grasshopper files?
 
 **Software Requirements:**
@@ -17,7 +19,7 @@ The repository includes:
 
 We assume that you have Rhinoceros/Grasshopper and Kangaroo 2 installed. After openning the .gh file, find the `Reset` button inside the design file and press it, you will see the SW/SFWB on the Rhinoceros screen.
 
-![Screen Shot 2022-05-24 at 22.36.05.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8a1abed-a659-4f82-8849-3c4db099664b/Screen_Shot_2022-05-24_at_22.36.05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220525%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220525T025035Z&X-Amz-Expires=86400&X-Amz-Signature=a02e6ae178d2dc1d4d4f2b6339a49d271dd7a714546306e032e819393271edc3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202022-05-24%2520at%252022.36.05.png%22&x-id=GetObject)
+![Screen Shot 2022-05-24 at 22.36.05.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8a1abed-a659-4f82-8849-3c4db099664b/Screen_Shot_2022-05-24_at_22.36.05.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220525%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220525T031712Z&X-Amz-Expires=86400&X-Amz-Signature=42a14392e259e342fdf1a7afeaa431304b73ecbe48eda2c4cf07f43a2f8c3100&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Shot%25202022-05-24%2520at%252022.36.05.png%22&x-id=GetObject)
 
 You can play with other parameters such as:
 
@@ -28,7 +30,7 @@ You can play with other parameters such as:
 
 # Laser cutting patterns
 
-File `LaserCut_ICRA2022.dxf` includes ready made SW and SFWB patterns for laser cutting. We use Takeo Tant paper as the material of origami structure (see paper for more detail on the material)
+We include ready made SW and SFWB patterns for laser cutting. We use Takeo Tant paper as the material of origami structure (see paper for more detail on the material)
 
 # Citation
 
