@@ -9,7 +9,7 @@ The repository includes:
 - Some animations on the transition of the SW and SFWB structure between bi-stable states
 
 <p align="center">
-<iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 # How to use Grasshopper files?
