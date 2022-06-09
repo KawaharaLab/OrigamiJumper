@@ -8,9 +8,16 @@ The repository includes:
 - Pattern to be used with a laser cutter to make the origami SW/SFWB structures
 - Some animations on the transition of the SW and SFWB structure between bi-stable states
 
-<p align="center">
+<!-- <p align="center">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</p> -->
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="Origami Jumper Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 # How to use Grasshopper files?
 
