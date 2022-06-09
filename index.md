@@ -4,12 +4,12 @@ This repository is for the ICRA 2022 paper: "Printable Origami Bistable Structur
 
 The repository includes:
 
-- Grasshopper designing file for waterbomb (SW), split-fold waterbomb (SFWB)
-- Pattern to be used with laser cutter to make the origami SW/SFWB structures
-- Some animation on the transition of the SW and SFWB structure between bi-stable states
+- Grasshopper designing files for waterbomb (SW), split-fold waterbomb (SFWB)
+- Pattern to be used with a laser cutter to make the origami SW/SFWB structures
+- Some animations on the transition of the SW and SFWB structure between bi-stable states
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:100%;" src="https://www.youtube.com/embed/15y4ZFg5i5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 # How to use Grasshopper files?
@@ -36,4 +36,4 @@ We include ready made SW and SFWB patterns for laser cutting. We use Takeo Tant 
 
 # Citation
 
-T. D. Ta*, Z. Chang*, K. Narumi, T. Umedachi, and Y. Kawahara, “**Printable Kirigami Bistable Structures for Foldable Jumping Robots,**” 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, To Appear. (* Co-first authors)
+T. D. Ta\*, Z. Chang\*, K. Narumi, T. Umedachi, and Y. Kawahara, “**Printable Kirigami Bistable Structures for Foldable Jumping Robots,**” 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, To Appear. (* Co-first authors)
