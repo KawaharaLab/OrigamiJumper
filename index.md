@@ -1,6 +1,6 @@
 # OrigamiJumper
 
-This repository is for the ICRA 2022 paper: "Printable Origami Bistable Structures for Foldable Jumpers".
+This repository is for the ICRA 2022 paper: ["Printable Origami Bistable Structures for Foldable Jumpers"](https://paperpile.com/app/p/753ed2cc-0d89-0440-b57f-7b656842619a).
 
 The repository includes:
 
